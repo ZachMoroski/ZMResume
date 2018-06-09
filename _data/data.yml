@@ -37,6 +37,9 @@ sidebar:
           item: Snowboarding
           link:
         - interest:
+          item: Gaming
+          link:
+        - interest:
           item: Photography
           link:
 
@@ -45,7 +48,7 @@ sidebar:
 
 career-profile: 
     title: Resume Summary
-    text: 
+    text: A very energetic computer science student. Recognized for past precedents excellent leadership skills and intelligence. Has great levels of organization and technological expertise. Looking to bring their wisdom into the world of computing and business.
 
 
 studies:
