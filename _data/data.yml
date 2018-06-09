@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: Zach's Resume
+    title: Zach Moroski's Resume
     url: 'http://zachmoroski.github.io'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -47,7 +47,7 @@ sidebar:
 
 
 career-profile: 
-    title: Resume Summary
+    title: Summary
     text: A very energetic computer science student. Recognized for past precedents excellent leadership skills and intelligence. Has great levels of organization and technological expertise. Looking to bring their wisdom into the world of computing and business.
 
 
@@ -175,4 +175,4 @@ skills:
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers.'
