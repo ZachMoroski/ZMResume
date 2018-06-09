@@ -167,14 +167,14 @@ skills:
           name: Calculus & Physics
           level: 85%
         - skill:
-          name: Adobe Photoshop & InDesign
-          level: 85%
-        - skill:
           name: GitHub
           level: 80%
         - skill:
+          name: Adobe Photoshop & InDesign
+          level: 75%
+        - skill:
           name: Construct 2
-          level: 80%
+          level: 70%
 
 
 footer: 
