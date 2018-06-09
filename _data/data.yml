@@ -55,7 +55,6 @@ career-profile:
 
 
 studies:
-
     - education:
       degree: BS in Computer Science
       university: Georgia Institute of Technology, Atlanta GA
@@ -94,6 +93,16 @@ studies:
       <br>
       Student Teachings and Reachings Students (STARS) tutor in the fields of math and science."
 
+experiences:
+    title: Past Experience
+    intro:
+    
+    experiences:
+      - experience:
+        role:
+        time:
+        company:
+        details:
 
 projects:
     title: Projects
