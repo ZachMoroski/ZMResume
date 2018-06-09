@@ -111,7 +111,7 @@ projects:
     projects:
       - project:
         title: My Mod Pack
-        link: "#https://github.com/ZachMoroski/Zachs-Mod-Pack"
+        link: "http://github.com/ZachMoroski/Zachs-Mod-Pack"
         tagline: 
 
 
