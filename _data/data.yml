@@ -47,8 +47,6 @@ sidebar:
           link:
 
 
-
-
 career-profile: 
     title: Summary
     text: A very energetic computer science student. Recognized for past precedents excellent leadership skills and intelligence. Has great levels of organization and technological expertise. Looking to bring their wisdom into the world of computing and business.
@@ -93,6 +91,7 @@ studies:
       <br>
       Student Teachings and Reachings Students (STARS) tutor in the fields of math and science."
 
+
 experiences:
     title: Past Experience
     intro:
@@ -103,6 +102,7 @@ experiences:
         time:
         company:
         details:
+
 
 projects:
     title: Projects
