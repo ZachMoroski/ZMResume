@@ -53,8 +53,7 @@ studies:
       degree: High School Diploma
       university: Blessed Trinity Catholic High School, Roswell, GA
       time: 2014 - 2018
-      details:
-      <br><br>
+      details: <br><br>
       Achieved 3.93 GPA (95.89 [Numeric Average]). Received Summa Cum Laude 6 semesters and Magna Cum Laude 2 semesters of 9th-11th grade.
       <br><br>
       Honors and AP student. Took 8 APs such as AP Calculus BC, AP Computer Science A, AP Physics C, AP US History, and AP Microeconomics.
@@ -79,7 +78,7 @@ studies:
       <br>
       Member of the Yearbook Staff in Grade 12.
       <br>
-      Student Teachings and Reachings Students (STARS) tutor in the fields of math and science."
+      Student Teachings and Reachings Students (STARS) tutor in the fields of math and science.
 
     - education:
       degree: BS in Computer Science
@@ -87,7 +86,7 @@ studies:
       time: 2018 - 
       details: "Seeking a computer science degree at Georgia Tech, which has many nationally recognized programs, all top-ranked by peers and publications alike, and is ranked in the nation’s top 10 public universities by U.S. News and World Report.
       <br>
-      It is also internationally recognized as one of the top schools in Computing."
+      It is also internationally recognized as one of the top schools in Computing.
 
 
 projects:
