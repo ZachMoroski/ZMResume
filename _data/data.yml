@@ -44,8 +44,8 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>.'
+    title: Resume Summary
+    text: 
 
 
 studies:
@@ -97,10 +97,6 @@ projects:
       - project:
         title: My Mod Pack
         link: "#https://github.com/ZachMoroski/Zachs-Mod-Pack"
-        tagline: 
-      - project:
-        title: My YouTube Channel & Persona, "Cleanfel"
-        link: "#http://youtube.com/Cleanfel"
         tagline: 
 
 
