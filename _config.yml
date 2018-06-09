@@ -2,7 +2,7 @@
 
 baseurl: '/' #change it according to your repository name
 
-theme_skin: green
+theme_skin: dark
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: True
