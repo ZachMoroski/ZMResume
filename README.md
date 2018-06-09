@@ -4,21 +4,6 @@
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](http://webjeda.com/online-cv/).
 
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
-
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
