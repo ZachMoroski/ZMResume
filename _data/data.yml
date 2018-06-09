@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: Zach's Resume
     url: 'http://zachmoroski.github.io'
-    about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Zach Moroski
@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: zmoroski@me.com
-    phone: 678-772-4061
+    phone: (678)-772-4061
     website: zacharymoroski.com #do not add http://
     linkedin: zachmoroski
     github: zachmoroski
