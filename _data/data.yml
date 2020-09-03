@@ -4,13 +4,13 @@
 
 sidebar:
     # Site Settings
-    title: Zach Moroski's Resume
+    title: Zach Moroski
     url: 'http://zachmoroski.github.io'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Zach Moroski
-    tagline: Studying Computer Science and Business
+    tagline: Data Analysist Studying at Georgia Tech
     pic: myprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -27,29 +27,29 @@ sidebar:
           level: Native
         - language:
           idiom: Spanish
-          level: Partially Fluent
+          level: Partially Know
         
     interests:
+        - interest:
+          item: Broadcasting & Announcing
+          link:
+        - interest:
+          item: Editing & Video Production
+          link:
+        - interest:
+          item: Photography
+          link:
         - interest:
           item: Golf
           link:
         - interest:
           item: Snowboarding
           link:
-        - interest:
-          item: Editing & Video Production
-          link:
-        - interest:
-          item: Gaming
-          link:
-        - interest:
-          item: Photography
-          link:
 
 
 career-profile: 
     title: Summary
-    text: A very energetic computer science student. Recognized for past precedents excellent leadership skills and intelligence across many different positions. Has great levels of organization and technological expertise. Looking to bring their wisdom into the world of computing and business.
+    text: Energetic business and computer science student. Recognized for past precedents excellent leadership skills and intelligence across many different positions. Has great levels of organization and technological expertise. Looking to bring their wisdom into the world of computing and business.
 
 
 studies:
@@ -67,9 +67,7 @@ studies:
       time: 2014 - 2018
       details: "Achieved 3.93 GPA (95.89 [Numeric Average]). Received Summa Cum Laude 6 semesters and Magna Cum Laude 2 semesters of 9th-12th grade.
       <br><br>
-      Honors and AP student. Took 8 APs such as AP Calculus BC, AP Computer Science A, AP Physics C, AP US History, and AP Microeconomics.
-      <br><br>
-      A member of the National Honors Society and the Mu Alpha Theta Society.
+      Honors and AP student. A member of the National Honors Society and the Mu Alpha Theta Society.
       <br><br>
       Received Most Valuable Broadcaster Award in Grade 12.
       <br>
@@ -85,11 +83,7 @@ studies:
       <br><br>
       Student leader of my school's Broadcasting Team.
       <br>
-      Drive Team Leader and Team Operations Leader of my school's Robotics Team, Hyperion.
-      <br>
-      Member of the Yearbook Staff in Grade 12.
-      <br>
-      Student Teachings and Reachings Students (STARS) tutor in the fields of math and science."
+      Drive Team Leader and Team Operations Leader of my school's Robotics Team, Hyperion."
 
 
 experiences:
@@ -110,7 +104,7 @@ projects:
     
     projects:
       - project:
-        title: My Mod Pack
+        title: My Minecraft Mod Pack
         link: "http://github.com/ZachMoroski/Zachs-Mod-Pack"
         tagline: 
 
@@ -120,9 +114,9 @@ publications:
    
     publications:
       - paper:
-        title: Camp Counselor at Game Camp Nation
+        title: Camp Leader at Game Camp Nation
         authors:
-        conference: "A certified counselor for Game Camp Nation, a small organization that helps teach kids all kinds of different technological skills, from programming, to video editing, to game designing.
+        conference: "A certified leader for Game Camp Nation, a small organization that helps teach kids all kinds of different technological skills, from programming, to video editing, to game designing.
         <br>
         We help kids spark their creativity and critical thinking skills to help bring about success in the kids' futures in the media-driven world.
         <br>
@@ -137,14 +131,6 @@ publications:
         conference: "Past leader and mentor of my High School's FRC Robotics Team, #4516 Hyperion.
         <br>
         The team is a part of FIRST, which is an organization promoting fields of STEM to the next generation of leaders."
-      - paper:
-        title: Tutor
-        authors: 
-        conference: A recognizable Physics tutor at my high school, and is always willing to help out kids in need of understanding certain subjects.
-      - paper:
-        title: Altar Leader
-        authors: 
-        conference: A past leader in serving the priest and deacon during mass, recognized by many members of the parish.
       - paper:
         title: YouTuber
         authors: 
@@ -162,28 +148,31 @@ skills:
           level: 95%
         - skill:
           name: Adobe Photoshop & GIMP
-          level: 95%
+          level: 92.5%
         - skill:
-          name: Adobe InDesign
+          name: Excel
           level: 90%
         - skill:
-          name: Javascript
+          name: Adobe InDesign
           level: 90%
         - skill:
           name: Sports Broadcasting & Announcing
           level: 90%
         - skill:
           name: Photography
-          level: 90%
+          level: 87.5%
+        - skill:
+          name: Tableau
+          level: 85%
+        - skill:
+          name: Javascript
+          level: 85%
         - skill:
           name: Calculus & Physics
           level: 85%
         - skill:
           name: GitHub
-          level: 80%
-        - skill:
-          name: Construct 2
-          level: 60%
+          level: 75%
 
 
 footer: 
